@@ -21,53 +21,19 @@ P.s. в виду обязательства по сохранению в тай�
 
   
 <details>
-<summary><b>Тест-кейсы</b></summary>
-<table>
-  <tr style="background-color: #e6f9e6;"> <!-- Светло-зеленый фон для заголовочной строки -->
-    <th>ID</th>
-    <th>Заголовок</th>
-    <th>Предусловия</th>
-    <th>Тестовые данные</th>
-    <th>Шаги</th>
-    <th>Ожидаемый результат</th>
-  </tr>
-  <tr>
-    <td align="center">1</td>
-    <td align="center">Пример</td>
-    <td align="center">Пример</td>
-    <td align="center">Пример</td>
-    <td align="center">
-      <ol>
-        <li>Первый шаг</li>
-        <li>Второй шаг</li>
-        <li>Третий шаг</li>
-      </ol>
-    </td>
-    <td align="center">Пример</td>
-  </tr>
-  <tr>
-    <td align="center">2</td>
-    <td align="center">...</td>
-    <td align="center">...</td>
-    <td align="center">...</td>
-    <td align="center">...</td>
-    <td align="center">...</td>
-  </tr>
-  <!-- Добавьте дополнительные строки по мере необходимости -->
-</table>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
 </details>
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
