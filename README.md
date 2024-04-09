@@ -24,3 +24,7 @@ P.s. в виду обязательства по сохранению в тай�
 
 
 
+https://github.com/leonidzhuravlev/doubletapp/assets/146559834/c518e2ef-d757-4fca-94a6-98b8ce8d7411
+
+
+
