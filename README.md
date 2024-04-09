@@ -21,6 +21,7 @@ P.s. в виду обязательства по сохранению в тай�
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
+      
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 
