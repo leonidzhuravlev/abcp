@@ -39,19 +39,7 @@ P.s. в виду обязательства по сохранению в тай�
 @@ text in purple (and bold)@@
 ```
 
-```
-Такой вот текст
-```
-```html
-   // code for coloring
-```
-```js
-   // code for coloring
-```
-```css
-   // code for coloring
-```
-// etc.
+$${\color{red}Red}$$
 
 
 
