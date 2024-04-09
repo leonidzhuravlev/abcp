@@ -18,6 +18,7 @@ P.s. в виду обязательства по сохранению в тай�
 | ...| ...       | ...          | ...             | ...  | ...                 |
 
 </details>
+
 Here is a simple footnote[^1].
 A footnote can also have multiple lines[^2].
 
