@@ -18,7 +18,7 @@ P.s. в виду обязательства по сохранению в тай�
 | ...| ...       | ...          | ...             | ...  | ...                 |
 
 </details>
-`rgb(9, 105, 218)`
+The background color is `#0969DA` for light mode and `#0969DA` for dark mode.
 <details>
 <summary><b>Тест-кейсы</b></summary>
 <table>
