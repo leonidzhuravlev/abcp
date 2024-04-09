@@ -31,16 +31,9 @@ P.s. в виду обязательства по сохранению в тай�
 
 </details>
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
-$${\color{red}Red}$$
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
+$${\color{Кресненько}Red}$$
 
 
 
