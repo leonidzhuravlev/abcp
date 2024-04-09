@@ -20,11 +20,11 @@ P.s. в виду обязательства по сохранению в тай�
 </details>
 
   
-[ЛЕО.pdf](https://github.com/leonidzhuravlev/doubletapp/files/14920388/default.pdf)
+![ЛЕО.pdf](https://github.com/leonidzhuravlev/doubletapp/files/14920388/default.pdf)
 
 
 
-[Start screen ](https://github.com/leonidzhuravlev/doubletapp/assets/146559834/225791e8-07f0-4a7f-be80-daee4e233392)
+![Start screen ](https://github.com/leonidzhuravlev/doubletapp/assets/146559834/225791e8-07f0-4a7f-be80-daee4e233392)
 
 
 
