@@ -38,7 +38,20 @@ P.s. в виду обязательства по сохранению в тай�
 # text in gray
 @@ text in purple (and bold)@@
 ```
-</details>
+
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
+// etc.
 
 
 
